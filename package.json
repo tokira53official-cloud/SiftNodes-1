@@ -1,0 +1,16 @@
+{
+  "name": "siftnodes-bot",
+  "version": "8.1.0",
+  "description": "SiftNodes Premium Discord Bot",
+  "main": "bot.py",
+  "scripts": {
+    "start": "node bot.py"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
